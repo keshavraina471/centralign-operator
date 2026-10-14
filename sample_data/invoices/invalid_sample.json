@@ -1,0 +1,8 @@
+{
+  "invoice_number": "BROKEN-2026-01",
+  "vendor": "Broken Sample Vendor",
+  "amount": "unknown",
+  "due_date": "",
+  "invoice_date": "2026-10-13",
+  "description": "Intentionally malformed test sample"
+}

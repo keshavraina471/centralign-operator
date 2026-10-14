@@ -1,0 +1,8 @@
+{
+  "invoice_number": "ACME-2026-1008",
+  "vendor": "Acme Technologies",
+  "amount": 68400,
+  "due_date": "2026-11-07",
+  "invoice_date": "2026-10-08",
+  "description": "Monthly cloud infrastructure services"
+}
